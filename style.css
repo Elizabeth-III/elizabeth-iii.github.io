@@ -1,0 +1,27 @@
+.caixinha-usuario {
+    background-color: yellow;
+    float: right;
+    margin-left: 80%;
+border-radius: 100px;
+width: 500px;
+margin-bottom: 20px;
+
+}
+.caixinha-usuario2{
+    background-color: yellow;
+    float: left;
+    margin-right: 100%;
+    border-radius: 80px;
+    width: 500px;
+    margin-bottom: 20px
+}
+#content{
+    width: 60%;
+    height: 80%;
+    margin:auto;
+    
+}
+#chat-content{
+    overflow-y: auto;
+    height: 100%;
+}
